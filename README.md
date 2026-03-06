@@ -1,16 +1,6 @@
 # Online Retail Sales Analysis using PySpark
 
-*Company* : CODTECH IT SOLUTIONS
-
 *Name* : Fathima Fidha V
-
-*INTERN ID* : CTIS5436
-
-*Domain* : Data Analytics
-
-*Duration* : 4 Weeks
-
-*Mentor* : Neela Santhosh
 
 
 ## Project Overview
